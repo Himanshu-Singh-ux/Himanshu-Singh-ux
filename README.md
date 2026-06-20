@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a BCA student passionate about learning, building, and turning ideas into real projects.<br>💻 Interested in Web Development and Software Development<br>🐍 Learning Python and improving my programming skills<br>☕ Exploring Java for future software development<br>🌐 Building projects with HTML, CSS, JavaScript, and modern web technologies<br>🧠 Curious about AI, APIs, and problem-solving<br>📚 Always learning and improving one project at a time
+I’m a BCA student passionate about learning, building, and turning ideas into real projects.<br>💻 Interested in Web Development and Software Development<br>🐍 Learning Python and improving my programming skills<br>☕ Exploring Java for future software development<br>🌐 Building projects with HTML, CSS, JavaScript, and modern web technologies<br>🧠 Curious about AI, APIs, and problem-solving<br>
 
 
 ## 🌐 Socials:
